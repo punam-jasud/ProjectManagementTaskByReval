@@ -21,6 +21,7 @@
     "@angular/router": "~10.0.5",
     "@types/chart.js": "^2.9.23",
     "chart.js": "^2.9.3",
+    "moment": "^2.27.0",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
